@@ -30,7 +30,6 @@ I am a Software Developer focused on building reliable, maintainable, and scalab
 
 ### GitHub stats
 <p>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjukumari20&theme=dark&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com/?user=Anjukumari20&theme=dark&hide_border=true" />
 </p>
 <p>
