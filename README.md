@@ -33,18 +33,10 @@ I am a Software Developer focused on building reliable, maintainable, and scalab
   <img height="170" align="middle" src="https://streak-stats.demolab.com/?user=Anjukumari20&theme=dark&hide_border=true" />
   <img width="30" height="1" align="middle" src="./spacer.svg" />
   <a href="https://leetcode.com/u/Anjukumari20/">
-    <img height="100" align="middle" src="PASTE_MARCH_BADGE_IMAGE_URL" alt="March LeetCode Badge" />
-    <img height="100" align="middle" src="PASTE_50_DAYS_BADGE_IMAGE_URL" alt="50 Days Badge 2025" />
+    <img height="170" align="middle" src="https://leetcard.jacoblin.cool/Anjukumari20?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 <p>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjukumari20&theme=github_dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjukumari20&theme=github_dark" />
-</p>
-
-### LeetCode
-<p>
-  <a href="https://leetcode.com/u/Anjukumari20/">
-    <img height="170" src="https://leetcard.jacoblin.cool/Anjukumari20?theme=dark&font=Karma&ext=heatmap" />
-  </a>
 </p>
