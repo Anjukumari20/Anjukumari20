@@ -10,7 +10,7 @@ I am a Software Developer focused on building reliable, maintainable, and scalab
 - 🎓 B.Tech Computer Science student
 - 💼 Looking for software engineering roles and collaboration
 - 🌐 Portfolio: [anjukumari.dev](https://anjukumari.dev)
-- 📫 Reach me: YOUR_EMAIL or [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Reach me: YOUR_EMAIL or [LinkedIn](https://www.linkedin.com/in/anjukumari20)
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,4 +35,19 @@ I am a Software Developer focused on building reliable, maintainable, and scalab
 <p>
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjukumari20&theme=github_dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjukumari20&theme=github_dark" />
+</p>
+
+### LeetCode
+<p>
+  <a href="https://leetcode.com/u/Anjukumari20/">
+    <img height="170" src="https://leetcard.jacoblin.cool/Anjukumari20?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+#### 🏅 Badges
+<p>
+  <a href="https://leetcode.com/u/Anjukumari20/">
+    <img src="PASTE_MARCH_BADGE_IMAGE_URL" height="100" alt="March LeetCode Badge" />
+    <img src="PASTE_50_DAYS_BADGE_IMAGE_URL" height="100" alt="50 Days Badge 2025" />
+  </a>
 </p>
