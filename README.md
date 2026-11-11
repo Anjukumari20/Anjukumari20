@@ -37,6 +37,9 @@ I am a Software Developer focused on building reliable, maintainable, and scalab
   </a>
 </p>
 <p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjukumari20&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjukumari20&theme=github_dark" />
+  <img height="170" align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjukumari20&theme=github_dark" />
+  <img height="170" align="middle" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjukumari20&theme=github_dark" />
+  <img width="20" height="1" align="middle" src="./spacer.svg" />
+  <img height="120" align="middle" src="https://leetcode.com/medal/?showImg=0&id=6685415&isLevel=false" alt="LeetCode Badge 1" />
+  <img height="120" align="middle" src="https://leetcode.com/medal/?showImg=0&id=9223580&isLevel=false" alt="LeetCode Badge 2" />
 </p>
