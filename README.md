@@ -1,5 +1,5 @@
 ## Profile
-I am a Software Developer focused on building reliable, maintainable, and scalable web applications. I work primarily with MongoDB, Express, and modern backend technologies for API services and integration.
+I am a Junior Software Developer focused on building reliable, maintainable, and scalable web applications. I work primarily with MongoDB, Express, and modern backend technologies for API services and integration.
 
 ![Followers](https://img.shields.io/github/followers/Anjukumari20?style=for-the-badge&logo=github&color=181717)
 ![Profile views](https://komarev.com/ghpvc/?username=Anjukumari20&style=for-the-badge&color=blue)
